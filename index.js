@@ -20,7 +20,7 @@ btn.onclick = function(){
 };
 
 function openPdf(){
-    const fileUrl = './pdf/kannan.pdf';
+    const fileUrl = './kannan.pdf';
     const win = window.open(fileUrl, '_black');
     win.focus();
 }
