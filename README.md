@@ -1,4 +1,3 @@
-
 # 🎨 Kannan's JavaScript Portfolio
 
 This is a simple personal portfolio website built using **JavaScript**, **HTML**, and **CSS**. It showcases my skills, projects, and provides a way to contact me. The portfolio is designed to be responsive and user-friendly.
@@ -23,7 +22,7 @@ This is a simple personal portfolio website built using **JavaScript**, **HTML**
 
 ## 🌐 Deployment
 
-The portfolio is hosted on GitHub Pages. You can view it here: [Kannan's JavaScript Portfolio](https://kannan-selvaraj-45.github.io/kannan-portfolio-js/)
+The portfolio is hosted on **Netlify**. You can view it here: [Kannan's JavaScript Portfolio](https://kannan-portfolio-js.netlify.app/)
 
 ---
 
